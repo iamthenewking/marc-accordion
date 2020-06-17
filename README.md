@@ -15,11 +15,7 @@ Features
 + Link directly to specified tab (works with multiple instances)
 + Maintains state of tabs when navigating away from page and then returning using back or forward (if browser supports the History API)
 + Nested tabs
-
-Demo
-====
-
-http://webthemez.com/demo/easy-responsive-tabs/Index.html
+ 
 
 
 How to use
@@ -103,7 +99,4 @@ How to use
         http://yoursite.com/tabs.html#{TAB ID 1}{TAB NUM}|{TAB ID 2}{TAB NUM}
         http://yoursite.com/tabs.html#demoTab2|demoTwo3
 
-For any support
-===============
-Samson 
-Email: samson3d@gmail.com
+ 
